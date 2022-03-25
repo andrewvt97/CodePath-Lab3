@@ -5,13 +5,11 @@ Flashcard app that stores multiple flashcards
 ## Lab 3
 
 ### App Description
-`TODO://`App that switches between flashcard app and an answer screen and allows the user to add their own questions
+App that switches between flashcard app and an answer screen and allows the user to add their own questions
 
 ### App Walk-though
-`TODO://` 
+ 
 <img src="https://media1.giphy.com/media/tdmvAB8FIkUk7je5sW/giphy.gif?cid=790b76110cb4deb1f7c6e3fa6f070916816931da31e9f409&rid=giphy.gif&ct=g" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
@@ -26,7 +24,7 @@ Flashcard app that stores multiple flashcards
 ## Lab 2
 
 ### App Description
-`TODO://` App that switches between flashcard app and an answer screen and allows the user to add their own questions
+App that switches between flashcard app and an answer screen and allows the user to add their own questions
 
 ### App Walk-though
 <img src="https://media0.giphy.com/media/bq8ZSsTVyXW5dEeMWL/giphy.gif?cid=790b76119dab2d6db3564c7b41da274838eb0b0ebfe76663&rid=giphy.gif&ct=g" width=200><br>
@@ -49,14 +47,10 @@ Flashcard app that stores multiple flashcards
 ## Lab 1
 
 ### App Description
-`TODO://` App that switches between flashcard app and an answer screen
+App that switches between flashcard app and an answer screen
 
 ### App Walk-though
-
-
 <img src="https://media2.giphy.com/media/F09DXT7GtfxaQRbsrJ/giphy.gif?cid=790b7611a92887b10d95954b37465a6b5fcb04c191e883e6&rid=giphy.gif&ct=g" width=200><br>
-
-
 
 ## Required
 - [x] Create New Project in Android Studio
